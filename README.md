@@ -7,14 +7,18 @@ Features
 Add Task:
 Users can enter a task in a text input field.
 A button labeled "Add Task" allows the user to add the entered task to the task list.
+
 Remove Task:
 Tasks can be deleted using a sliding gesture. By swiping left or right on a task, it gets removed from the list.
+
 Interactive UI:
 The app uses Flutter widgets like TextField for input, FloatingActionButton for adding tasks, and the Slidable widget for sliding gestures.
 Clean and simple UI with intuitive interactions for task management.
 
 This app provides a straightforward and efficient way to manage tasks with an easy-to-use interface, ideal for users who want a lightweight task management tool.
-![Screenshot 2024-12-07 190457](https://github.com/user-attachments/assets/2db85db0-2a43-4305-b905-f19e50ada907)
+
+
+![Screenshot 2024-12-07 190809](https://github.com/user-attachments/assets/567f523c-dd29-48de-be08-f411d12dcde0)
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
